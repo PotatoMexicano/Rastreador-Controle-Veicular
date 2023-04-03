@@ -1,0 +1,7 @@
+response.json
+migration.py
+**.log
+/environment
+/__pycache__
+**.pyc
+.env
